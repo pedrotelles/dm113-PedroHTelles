@@ -1,0 +1,17 @@
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe.config
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.exe
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\ProvedorEstoqueHost.pdb
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EntityFramework.dll
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.pdb
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EstoqueLibrary.dll.config
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EntityFramework.xml
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.exe
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\obj\Debug\ProvedorEstoqueHost.pdb
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ProvedorEstoqueHost\bin\Debug\EntityFramework.SqlServer.xml

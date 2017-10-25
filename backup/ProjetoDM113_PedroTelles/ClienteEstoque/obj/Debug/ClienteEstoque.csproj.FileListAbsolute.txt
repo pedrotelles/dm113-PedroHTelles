@@ -1,0 +1,7 @@
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\bin\Debug\ClienteEstoque.exe.config
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\bin\Debug\ClienteEstoque.exe
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\bin\Debug\ClienteEstoque.pdb
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\obj\Debug\ClienteEstoque.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\obj\Debug\ClienteEstoque.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\obj\Debug\ClienteEstoque.exe
+C:\Users\pedro\Desktop\backup\ProjetoDM113_PedroTelles\ClienteEstoque\obj\Debug\ClienteEstoque.pdb

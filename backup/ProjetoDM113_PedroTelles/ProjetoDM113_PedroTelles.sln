@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueEntityModel", "EstoqueEntityModel\EstoqueEntityModel.csproj", "{7E0523BA-6765-4BE6-ADF8-110C2AE853B3}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ServicoEstoque", "..\Websites\ServicoEstoque\", "{55858CED-BDBE-4F66-878C-2F4C81DB9CE6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{7e0523ba-6765-4be6-adf8-110c2ae853b3}|EstoqueEntityModel.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55158"
+		Debug.AspNetCompiler.PhysicalPath = "..\Websites\ServicoEstoque\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55158\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55158"
+		Release.AspNetCompiler.PhysicalPath = "..\Websites\ServicoEstoque\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55158\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55158"
+		SlnRelativePath = "..\Websites\ServicoEstoque\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteEstoque", "ClienteEstoque\ClienteEstoque.csproj", "{5500B903-C94C-4FB5-9322-F2B139595BB8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{55858CED-BDBE-4F66-878C-2F4C81DB9CE6} = {55858CED-BDBE-4F66-878C-2F4C81DB9CE6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueLibrary", "EstoqueLibrary\EstoqueLibrary.csproj", "{1F814111-444B-4F0D-B688-DD3BE85AFE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvedorEstoqueHost", "ProvedorEstoqueHost\ProvedorEstoqueHost.csproj", "{5B442976-2F90-45E9-BB8A-4EF66D0CC55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0523BA-6765-4BE6-ADF8-110C2AE853B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0523BA-6765-4BE6-ADF8-110C2AE853B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0523BA-6765-4BE6-ADF8-110C2AE853B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0523BA-6765-4BE6-ADF8-110C2AE853B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55858CED-BDBE-4F66-878C-2F4C81DB9CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55858CED-BDBE-4F66-878C-2F4C81DB9CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55858CED-BDBE-4F66-878C-2F4C81DB9CE6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{55858CED-BDBE-4F66-878C-2F4C81DB9CE6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5500B903-C94C-4FB5-9322-F2B139595BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5500B903-C94C-4FB5-9322-F2B139595BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5500B903-C94C-4FB5-9322-F2B139595BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5500B903-C94C-4FB5-9322-F2B139595BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F814111-444B-4F0D-B688-DD3BE85AFE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F814111-444B-4F0D-B688-DD3BE85AFE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F814111-444B-4F0D-B688-DD3BE85AFE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F814111-444B-4F0D-B688-DD3BE85AFE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B442976-2F90-45E9-BB8A-4EF66D0CC55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B442976-2F90-45E9-BB8A-4EF66D0CC55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B442976-2F90-45E9-BB8A-4EF66D0CC55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B442976-2F90-45E9-BB8A-4EF66D0CC55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32BE7F5B-0523-4976-9E8E-39AAF0B098B9}
+	EndGlobalSection
+EndGlobal
